@@ -111,10 +111,8 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
 }
-.team-list {
-  background-color: #ffffff;
-}
 .team-list-item-title {
+  background-color: #ffffff;
   color: #2e2f42;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -123,6 +121,7 @@ ul {
   font-size: 20px;
 }
 .team-list-item-text {
+  background-color: #ffffff;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
