@@ -31,11 +31,6 @@ ul {
   font-weight: 700;
   font-size: 18px;
 }
-.navigation-logo {
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
 .logo-top {
   color: #2e2f42;
 }
@@ -90,6 +85,7 @@ ul {
   display: none;
 }
 .benefits-list-item-title {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -110,6 +106,7 @@ ul {
   background-color: #f4f4fd;
 }
 .team-title {
+  color: #2e2f42;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
@@ -121,6 +118,8 @@ ul {
   background-color: #ffffff;
 }
 .team-list-item-title {
+  color: #2e2f42;
+  background-color: #ffffff;
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
@@ -140,6 +139,7 @@ ul {
 /* -----------------------portfolio start----------------------- */
 
 .portfolio-title {
+  color: #2e2f42;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
@@ -148,6 +148,7 @@ ul {
   text-transform: capitalize;
 }
 .portfolio-list-item-title {
+  color: #2e2f42;
   line-height: 1.2;
   letter-spacing: 0.02em;
   font-weight: 500;
