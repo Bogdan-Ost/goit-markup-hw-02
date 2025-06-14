@@ -1,7 +1,7 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-  color: #2e2f42;
+  color: #434455;
 }
 a {
   text-decoration: none;
@@ -23,19 +23,21 @@ ul {
 /* -------------------------header start------------------------- */
 
 .navigation-link {
-  color: #2e2f42;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 18px;
 }
 .navigation-logo {
-  color: #4d5ae5;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+.logo-top {
+  color: #2e2f42;
 }
 .navigation-list {
   line-height: 1.5;
@@ -45,9 +47,13 @@ ul {
 }
 
 .address {
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
+}
+.address-list-item-contacts {
+  color: #434455;
 }
 
 /* --------------------------header end-------------------------- */
@@ -58,7 +64,7 @@ ul {
   background: #2e2f42;
 }
 .herobaner-title {
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   font-weight: 700;
@@ -72,6 +78,8 @@ ul {
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
 }
 
 /* ------------------------herobaner end------------------------ */
@@ -91,18 +99,26 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* -------------------------benefits end------------------------- */
 
 /* --------------------------team start-------------------------- */
 
+.team {
+  background-color: #f4f4fd;
+}
 .team-title {
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+}
+.team-list {
+  background-color: #ffffff;
 }
 .team-list-item-title {
   line-height: 1.2;
@@ -124,11 +140,12 @@ ul {
 /* -----------------------portfolio start----------------------- */
 
 .portfolio-title {
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   font-weight: 700;
   font-size: 36px;
+  text-transform: capitalize;
 }
 .portfolio-list-item-title {
   line-height: 1.2;
@@ -154,6 +171,9 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.studio {
   color: #f4f4fd;
 }
 
