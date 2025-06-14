@@ -1,0 +1,160 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  background-color: #ffffff;
+  color: #2e2f42;
+}
+a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+a:hover,
+a:focus {
+  color: #404bbf;
+}
+button:hover,
+button:focus {
+  background-color: #404bbf;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* -------------------------header start------------------------- */
+
+.navigation-link {
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+}
+.navigation-logo {
+  color: #4d5ae5;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.navigation-list {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.address {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+}
+
+/* --------------------------header end-------------------------- */
+
+/* -----------------------herobaner start----------------------- */
+
+.herobaner {
+  background: #2e2f42;
+}
+.herobaner-title {
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-weight: 700;
+  font-size: 56px;
+  color: #ffffff;
+}
+.herobaner-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+
+/* ------------------------herobaner end------------------------ */
+
+/* ------------------------benefits start------------------------ */
+
+.benefits-title {
+  display: none;
+}
+.benefits-list-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.benefits-list-item-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* -------------------------benefits end------------------------- */
+
+/* --------------------------team start-------------------------- */
+
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.team-list-item-title {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+}
+.team-list-item-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-size: 16px;
+  color: #434455;
+}
+
+/* ---------------------------team end--------------------------- */
+
+/* -----------------------portfolio start----------------------- */
+
+.portfolio-title {
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+}
+.portfolio-list-item-title {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-size: 20px;
+}
+.portfolio-list-item-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  color: #434455;
+}
+
+/* ------------------------portfolio end------------------------ */
+
+/* -------------------------footer start------------------------- */
+
+.bottom {
+  background: #2e2f42;
+}
+.bottom-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+/* --------------------------footer end-------------------------- */
